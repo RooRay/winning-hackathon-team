@@ -6,7 +6,7 @@ Team Mentor: Angus Henderson
 [View the final page](https://jpmc-hackathon.ruaridhprentice.com)
 
 > [!NOTE]
-> Please respect the privacy of the participants in this Hackathon (almost all minors) and do not attempt to reach out to them. This repository solely exists for archival/educational purposes. You can do whatever you like with the code here as long as you do so ethically.
+> Please respect the privacy of the participants in this Hackathon (almost all minors) and do not attempt to reach out to them. This repository solely exists for archival/educational purposes. You can do whatever you like with the code here as long as you do so ethically and within the terms of the license.
 
 ## About This Repo
 
